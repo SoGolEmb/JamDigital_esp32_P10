@@ -1,0 +1,4 @@
+{
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, IndentWidth: 2, ColumnLimit: 120}",
+    "editor.formatOnSave": true
+}
